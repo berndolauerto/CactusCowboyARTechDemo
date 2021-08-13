@@ -17,7 +17,7 @@ More info about this: https://developer.oculus.com/experimental/passthrough-api/
 
 You need to do this every time you reboot your Quest 2 or this feature just won't work and instead of a Passthough AR game you'll end up with a black background app!
 
-Download GitHub
+Download: [Version 0.1](https://github.com/berndolauerto/CactusCowboyARTechDemo/releases/tag/0.1)
 
 
 
